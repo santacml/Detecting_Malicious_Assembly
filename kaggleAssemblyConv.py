@@ -1,5 +1,3 @@
-"Power-Efficient, realtime malware detection in hardware"
-
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # gets rid of AVX message
 # os.environ['TF_CPP_MIN_VLOG_LEVEL']='3'  # log tensor allcoation?
